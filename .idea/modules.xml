@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExercicioFixacaoListas.iml" filepath="$PROJECT_DIR$/ExercicioFixacaoListas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-list-manager-java.iml" filepath="$PROJECT_DIR$/employee-list-manager-java.iml" />
     </modules>
   </component>
 </project>
